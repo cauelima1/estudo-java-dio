@@ -17,8 +17,8 @@ public class Usuario {
         smartTv.aumentarVolume();        
         smartTv.aumentarVolume();
         smartTv.diminuirVolume();
-        smartTv.escolherCanal(24);
-        smartTv.ligarTv();
+        smartTv.escolherCanal(24);  
+        smartTv.desligarTV();
 
         System.out.println("----------Depois dos ajustes-------------");
 

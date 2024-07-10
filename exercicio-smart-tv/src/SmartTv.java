@@ -1,4 +1,6 @@
 public class SmartTv {
+
+
     static boolean ligada = false;
     int canal = 1;
     int volume = 24;
